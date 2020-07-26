@@ -1,7 +1,5 @@
-## Hi there! I am Aman
+<h2> Hi there! I am Aman </h2>
 
-<!--
-**agaraman0/agaraman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
