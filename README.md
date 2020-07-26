@@ -8,6 +8,7 @@
 - 🎓 &nbsp; Intrested Into Solving Real World Problems or Product Development.
 - 🌱 &nbsp; Exploring System Desgin, Distributed Systems And System Architectures.
 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ 
@@ -16,7 +17,9 @@
 - 🔍 &nbsp; OpenCV | Android Studio
 - 🔧 &nbsp; Git | Markdown | Selenium
 
+
 <h3> 🔧 Tools </h3>
+
 - 📝 &nbsp; VScode | Sublime | Jupyter Notebook
 - 🤓 &nbsp; Wakatime | Pushbullet | Simplenote
 
