@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Learning New Technologies | Problem Solving.
+- 🤔 &nbsp; Product Development | Problem Solving.
 - 📔 &nbsp; Data Science Entusiasts
-- 🎓 &nbsp; Intrested Into Solving Real World Problems or Product Development.
+- 🎓 &nbsp; Intrested Into Solving Real World Problems or Building Product which can create an impact.
 - 🌱 &nbsp; Exploring System Desgin, Distributed Systems And System Architectures.
 
 
@@ -31,7 +31,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/agaraman0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aman%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:agaraman0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-agaraman0@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ 
 </p>
